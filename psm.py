@@ -5,8 +5,7 @@ import streamlit as st
 st.set_page_config(
     page_title="Password Strength Meter By Mujahid Shaikh!",
     page_icon=":lock:",
-    page_icon=":pencil:",
-    layout="wide",
+    layout="center",
     initial_sidebar_state="expanded",
 )
 # custom css
